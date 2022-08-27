@@ -1,0 +1,3 @@
+### Note:
+
+If the [Jupyter Notebook's version of the News Articles Project](https://github.com/jeyla380/projects/blob/main/datascience/web_scraping/news_articles.ipynb) does not load properly, I have included a [PDF version of the project](https://github.com/jeyla380/projects/blob/main/datascience/web_scraping/news_articles.pdf), however, the HTML section in the PDF does not work, therefore, I've added an [HTML version of the project](https://github.com/jeyla380/projects/blob/main/datascience/web_scraping/news_articles.html) as well. I've also gone ahead and the [Python file of the project](https://github.com/jeyla380/projects/blob/main/datascience/web_scraping/news_articles.py), however, the Python file does not include the graphs.
