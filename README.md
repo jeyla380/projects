@@ -14,6 +14,9 @@
 - [Language Detection](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/machine_learning/projects/language_detection)
 
  
+<br>
 
 
+## 💻 Web Development
 
+- [Los Angeles Mountains](https://github.com/jeyla380/projects/tree/main/web_development/losangeles_mountains)
