@@ -20,9 +20,17 @@
 ## 💻 Web Development
 
 - [Los Angeles Mountains](https://github.com/jeyla380/projects/tree/main/web_development/losangeles_mountains)
+- [Lake Welding Services](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H5)
+- [Life Outback](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H7)
+- [Pizza Avenue](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/pizza_two)
+- [ePortfolio](https://github.com/jeyla380/school_work/tree/main/web_programming/web_design/Website_Completed)
 - [Guessing Game](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/guess)
 - [Little Boxes](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/little_boxes)
 - [Galactic Lottery](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/lottery)
-- [Pizza Avenue](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/pizza_two)
 - [Tic Tac Toe](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/tic_tac_toe)
 - [The Maine](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/bootstrap)
+- [Twitter Site](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H8)
+- [Bootstrap Quiz](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H6)
+- [eCommerce](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/eCommerce)
+- [SQL Form](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/MySQLForm)
+- [JavaScript Validation](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/JavascriptValidation)
