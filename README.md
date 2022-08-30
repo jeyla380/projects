@@ -21,3 +21,8 @@
 
 - [Los Angeles Mountains](https://github.com/jeyla380/projects/tree/main/web_development/losangeles_mountains)
 - [Guessing Game](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/guess)
+- [Little Boxes](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/little_boxes)
+- [Galactic Lottery](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/lottery)
+- [Pizza Avenue](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/pizza_two)
+- [Tic Tac Toe](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/tic_tac_toe)
+- [The Maine](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/bootstrap)
