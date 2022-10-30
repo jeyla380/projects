@@ -28,7 +28,7 @@
 - [ePortfolio](https://github.com/jeyla380/school_work/tree/main/web_programming/web_design/Website_Completed)
 - [Little Boxes](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/little_boxes)
 
-### JavaScript, jQuery, PHP, MySQL
+### JavaScript, jQuery, Bootstrap, & PHP
 - [Lake Welding Services](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H5)
 - [Life Outback](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H7)
 - [Guessing Game](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/guess)
@@ -38,5 +38,7 @@
 - [Twitter Site](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H8)
 - [Bootstrap Quiz](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H6)
 - [eCommerce](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/eCommerce)
-- [SQL Form](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/MySQLForm)
 - [JavaScript Validation](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/JavascriptValidation)
+
+### MySQL
+- [SQL Form](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/MySQLForm)
