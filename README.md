@@ -39,6 +39,4 @@
 - [Bootstrap Quiz](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H6)
 - [eCommerce](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/eCommerce)
 - [JavaScript Validation](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/JavascriptValidation)
-
-### MySQL
 - [SQL Form](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/MySQLForm)
