@@ -28,7 +28,7 @@
 - [ePortfolio](https://github.com/jeyla380/school_work/tree/main/web_programming/web_design/Website_Completed)
 - [Little Boxes](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/little_boxes)
 
-### JavaScript, jQuery, Bootstrap, & PHP
+### JavaScript, PHP
 - [Lake Welding Services](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H5)
 - [Life Outback](https://github.com/jeyla380/school_work/tree/main/web_programming/advanced_javascript/H7)
 - [Guessing Game](https://github.com/jeyla380/school_work/tree/main/web_programming/xhtml_fundamentals/guess)
