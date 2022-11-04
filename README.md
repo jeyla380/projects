@@ -13,6 +13,10 @@
 - [News Articles](https://github.com/jeyla380/projects/tree/main/datascience/web_scraping)
 - [Language Detection](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/machine_learning/projects/language_detection)
 
+<br>
+
+## 📑 Object-Oriented Programming
+
 ### C++
 - [Class Roster](https://github.com/jeyla380/school_work/tree/main/backend_programming/c++/projects/class_roster)
 
