@@ -44,3 +44,12 @@
 - [eCommerce](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/eCommerce)
 - [JavaScript Validation](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/JavascriptValidation)
 - [SQL Form](https://github.com/jeyla380/school_work/tree/main/web_programming/web_programming/MySQLForm)
+
+
+<br>
+
+## 📂 Database Management
+
+### MySQL, PostgreSQL
+- [Jaunty Coffee Co.](https://github.com/jeyla380/school_work/tree/main/database_management/mysql)
+- [Data Analysis with DVD Rentals](https://github.com/jeyla380/school_work/tree/main/database_management/postgresql)
