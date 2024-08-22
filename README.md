@@ -3,7 +3,7 @@
 
 <br>
 
-## 📈 Data Science
+## 📈 Data Science & Machine Learning
 
  ### Python
 
