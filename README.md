@@ -12,6 +12,7 @@
 - [Binding of Isaac](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/data_analysis/projects)
 - [News Articles](https://github.com/jeyla380/projects/tree/main/datascience/web_scraping)
 - [Language Detection](https://github.com/jeyla380/codecademy_projects/tree/main/datascience/machine_learning/projects/language_detection)
+- [Book Title Translation](https://github.com/jeyla380/school_work/tree/main/backend_programming/python/capstone)
 
 <br>
 
